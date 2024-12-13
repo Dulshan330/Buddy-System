@@ -89,5 +89,5 @@ memory.allocate(250);
 memory.allocate(64);
 memory.free(0, 126);
 memory.free(256, 250);
-memory.allocate(126);
+memory.allocate(120);
 memory.allocate(240);
