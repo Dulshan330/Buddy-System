@@ -13,11 +13,11 @@ This project implements the Buddy System algorithm for dynamic memory allocation
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone [REPOSITORY_URL]
+   git clone https://github.com/Dulshan330/Buddy-System.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd [PROJECT_DIRECTORY]
+   cd Buddy System
    ```
 
 ## Usage
